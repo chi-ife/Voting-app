@@ -1,0 +1,16 @@
+[
+    {
+        "label": "JavaScript",
+        "percentage": 65
+    },
+
+    {
+        "label": "TypeScript",
+        "percentage": 25
+    },
+
+    {
+        "label": "Both",
+        "percentage": 10
+    }
+]
